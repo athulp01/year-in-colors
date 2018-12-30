@@ -1,5 +1,3 @@
-.                               
-
 from curses import wrapper
 import curses
 import random
