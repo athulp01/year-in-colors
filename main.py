@@ -1,4 +1,4 @@
-  GNU nano 3.2                                    main.py                                              
+.                               
 
 from curses import wrapper
 import curses
